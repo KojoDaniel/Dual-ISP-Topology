@@ -1,0 +1,3 @@
+(ISP1) --> (Primary Router) --> (Core Switch) --> (VLANs & Devices)
+(ISP2) --> (Secondary Router) --> (Core Switch) --> (Firewall)
+(Failover Route between ISP1 & ISP2 with BGP & PBR Implementation)
