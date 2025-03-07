@@ -11,4 +11,4 @@ This repository provides configurations and documentation for setting up a **Dua
 ## 🚀 About Me
 I'm a **Certified Network Engineer** specializing in **network optimization, firewall security, and ISP failover configurations**.  
 
-**🔹 Need help setting up your business network?** Contact me on **Upwork & Fiverr** for **custom solutions!**  
+**🔹 Need help setting up your business network?** Contact me on **Upwork & Fiverr** for **custom solutions!**  Senior E.
